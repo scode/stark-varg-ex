@@ -1,6 +1,17 @@
-# Stark Varg Ex - UNOFFICIAL owner's guide
+# Stark Varg EX - Unofficial Owner's Guide
 
-Information intended to be useful to Stark Varg Ex owners that is a combination of experience, asking around, trolling
-online material etc.
+An unofficial owner's guide for Stark Varg EX motorcycles.
 
-- [Torque Specs](torque_specs.md)
+**[View the Guide](https://scode.github.io/stark-varg-ex/)**
+
+## Contributing
+
+This guide is built with [mdbook](https://rust-lang.github.io/mdBook/). To build locally:
+
+```bash
+mdbook serve
+```
+
+## License
+
+MIT License - see [LICENSE](LICENSE) for details.
