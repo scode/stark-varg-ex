@@ -1,0 +1,14 @@
+[book]
+title = "Stark Varg EX - Unofficial Owner's Guide"
+authors = ["scode"]
+language = "en"
+src = "src"
+
+[build]
+build-dir = "book"
+
+[output.html]
+git-repository-url = "https://github.com/scode/stark-varg-ex"
+edit-url-template = "https://github.com/scode/stark-varg-ex/edit/main/{path}"
+site-url = "/stark-varg-ex/"
+default-theme = "light"
