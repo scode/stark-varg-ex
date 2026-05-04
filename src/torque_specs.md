@@ -11,6 +11,12 @@ Stark refuses to give guidance here via support (as of December 2025). I am stil
 bolt kit I have used 15 Nm, no locktite, _and frequently inspect them_. This is NOT a recommendation and I believe it is
 too little and/or loctite is needed.
 
+Update from May 3, 2026: the official Stark assembly video appears to say `30 Nm` for the handlebar clamp bolts when
+subtitles are turned on. Source: [Stark assembly video](https://www.youtube.com/watch?v=nBx43Dxl2og). I have not tried
+this yet.
+
+![Screenshot from Stark assembly video subtitles showing 30 Nm for clamp bolts](assets/assembly_video_clamp_bolt_spec.png)
+
 ## Torque settings found in manual
 
 | Part                           | Fastener Type    | Torque (Nm) | Bit | Description & Location on Stark Varg EX                                                                                                                           |
