@@ -5,17 +5,35 @@ intended to be a more convenient form of the information but is not a substitute
 
 ## Torque settings NOT found in manual
 
-### Handlebar clamps
+NOTE: These are not from the owner's manual. They are from Stark's official assembly videos, usually from subtitles or
+on-screen captions. I am recording them because they are useful clues, not because I have independently verified that
+they supersede the manual.
 
-Stark refuses to give guidance here via support (as of December 2025). I am still experimenting, but with the Titanium
-bolt kit I have used 15 Nm, no locktite, _and frequently inspect them_. This is NOT a recommendation and I believe it is
-too little and/or loctite is needed.
+| Part                  | Fastener Type | Torque (Nm) | Source Evidence                                                                                                                          | Notes                                                                                                                                          |
+| --------------------- | ------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Triple clamp**      | bolt          | 20          | [Screenshot](assets/assembly_video_triple_clamp_bolt_spec.png), [Stark assembly video](https://www.youtube.com/watch?v=nBx43Dxl2og)      | Caption says: "Torque the triple clamp bolt to 20Nm."                                                                                          |
+| **Indicator**         | nut           | 2           | [Screenshot](assets/assembly_video_indicator_nut_spec.png), [Stark assembly video](https://www.youtube.com/watch?v=nBx43Dxl2og)          | Caption says: "Secure the indicator tightening the nut to 2Nm."                                                                                |
+| **Rear chain slider** | bolt          | 8           | [Screenshot](assets/assembly_video_rear_chain_slider_bolt_spec.png), [Stark assembly video](https://www.youtube.com/watch?v=nBx43Dxl2og) | Caption says: "Reinstall the rear chain slider bolt, torque to 8 Nm." This does not match the generic `Chain slider` `5 Nm` row in the manual. |
+| **Rear chain guide**  | bolts         | 15          | [Screenshot](assets/assembly_video_chain_guide_bolt_spec.png), [Stark assembly video](https://www.youtube.com/watch?v=nBx43Dxl2og)       | Caption says: "Install the chain guide bolts and torque to 15 Nm."                                                                             |
+| **Handlebar clamp**   | bolts         | 30          | [Screenshot](assets/assembly_video_clamp_bolt_spec.png), [Stark assembly video](https://www.youtube.com/watch?v=nBx43Dxl2og) subtitles   | The subtitle value appears to be `30 Nm`.                                                                                                      |
 
-Update from May 3, 2026: the official Stark assembly video appears to say `30 Nm` for the handlebar clamp bolts when
-subtitles are turned on. Source: [Stark assembly video](https://www.youtube.com/watch?v=nBx43Dxl2og). I have not tried
-this yet.
+![Screenshot from Stark assembly video subtitles showing 20 Nm for the triple clamp bolt](assets/assembly_video_triple_clamp_bolt_spec.png)
 
-![Screenshot from Stark assembly video subtitles showing 30 Nm for clamp bolts](assets/assembly_video_clamp_bolt_spec.png)
+![Screenshot from Stark assembly video subtitles showing 2 Nm for the indicator nut](assets/assembly_video_indicator_nut_spec.png)
+
+![Screenshot from Stark assembly video subtitles showing 8 Nm for the rear chain slider bolt](assets/assembly_video_rear_chain_slider_bolt_spec.png)
+
+![Screenshot from Stark assembly video subtitles showing 15 Nm for the chain guide bolts](assets/assembly_video_chain_guide_bolt_spec.png)
+
+### Stark support on handlebar clamps
+
+Stark refuses to give guidance here via support (as of December 2025). Prior to finding the assembly-video value, I had
+been experimenting with 15 Nm, no locktite, and frequent inspections on the Titanium bolt kit. This is NOT a
+recommendation and I believe it is too little and/or loctite is needed. I now have a different Stark and no longer have
+the Titanium bolt kit installed, so for my own purposes I consider that experimenting superseded by the assembly-video
+value in the table above. I would still be cautious about over-torquing if you do have the Titanium bolt kit.
+
+The assembly-video `30 Nm` value is recorded in the table above.
 
 ## Torque settings found in manual
 
