@@ -1,11 +1,4 @@
-# CLAUDE.md
-
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
-## Project Overview
-
-An unofficial owner's guide for Stark Varg EX motorcycles, built with mdbook and deployed to GitHub Pages at
-https://scode.github.io/stark-varg-ex/
+# AGENTS.md
 
 ## Commands
 
@@ -15,6 +8,8 @@ mdbook build    # Build the book to ./book/
 dprint check    # Check formatting
 dprint fmt      # Fix formatting
 ```
+
+Run `dprint check` before claiming documentation changes are done.
 
 # Conventional Commits
 
@@ -30,14 +25,3 @@ Rules:
   `fix`, not `refactor`. A new CLI flag is `feat`, not `chore`.
 - The summary after the colon is lowercase, imperative mood, no trailing period.
 - Keep the first line under 72 characters.
-
-## Structure
-
-- `src/` - mdbook source files (SUMMARY.md defines navigation)
-- `book.toml` - mdbook configuration
-- `dprint.json` - formatter config (markdown line width: 120, text wrap: always)
-
-## CI/CD
-
-- **CI**: Runs `dprint check` on push/PR to main
-- **Deploy**: Builds and deploys to GitHub Pages on push to main
