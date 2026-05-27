@@ -3,15 +3,6 @@
 NOTE: This is a cheat sheet, not the full service manual procedure. The owners manual lists `Motor oil` as
 `SAE 75w-90 gear oil`; Stark's `07.019.06 Change gear oil` technical manual says to use synthetic `75W-90` gear oil.
 
-## Spec
-
-- Oil: synthetic `75W-90` gear oil.
-- Example: [Maxima SXS High Performance Full Synthetic Gear Oil, `75W-90 1 Liter`][maxima-sxs-75w90].
-- Tools: `TRX 30` and `TRX 25`.
-- Consumables: new drain plug washer and new level bolt washer.
-- First change: break-in oil change at `5` riding hours.
-- Normal interval: change gear oil every `40` riding hours or every `12` months, whichever comes first.
-
 ## Procedure notes
 
 1. Start with the bike cool, off, and disconnected from the charger.
@@ -32,6 +23,15 @@ NOTE: This is a cheat sheet, not the full service manual procedure. The owners m
 13. Install a new washer on the level bolt and tighten the level bolt to `5 Nm`.
 14. Tighten the right motor cover metal cap to `5 Nm`.
 15. Clean oil residue off the motor housing and reinstall the skid plate.
+
+## Spec
+
+- Oil: synthetic `75W-90` gear oil.
+- Example: [Maxima SXS High Performance Full Synthetic Gear Oil, `75W-90 1 Liter`][maxima-sxs-75w90].
+- Tools: `TRX 30` and `TRX 25`.
+- Consumables: new drain plug washer and new level bolt washer.
+- First change: break-in oil change at `5` riding hours.
+- Normal interval: change gear oil every `40` riding hours or every `12` months, whichever comes first.
 
 ## Sources
 
