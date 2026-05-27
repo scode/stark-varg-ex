@@ -22,7 +22,7 @@ NOTE: This is a cheat sheet, not the full service manual procedure. The owners m
     still running out.
 13. Install a new washer on the level bolt and tighten the level bolt to `5 Nm`.
 14. Tighten the right motor cover metal cap to `5 Nm`.
-15. Clean oil residue off the motor housing and reinstall the skid plate.
+15. Clean oil residue off the motor housing and reinstall the skid plate. Torque the skid plate bolts to `15 Nm`.
 
 ## Spec
 
@@ -39,6 +39,7 @@ NOTE: This is a cheat sheet, not the full service manual procedure. The owners m
 - Stark VARG EX owners manual, service intervals: break-in oil change at `5` riding hours, and gear oil changes in the
   `40` riding hours / `12` months service group.
 - Stark technical manual `07.019.06 Change gear oil`.
+- Project torque spec table: skid plate bolts are `15 Nm`.
 
 ## Related resources
 
