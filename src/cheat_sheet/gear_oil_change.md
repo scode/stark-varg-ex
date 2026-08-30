@@ -1,7 +1,7 @@
 # Gear oil change
 
-NOTE: This is a cheat sheet, not the full service manual procedure. The owners manual lists `Motor oil` as
-`SAE 75w-90 gear oil`; Stark's `07.019.06 Change gear oil` technical manual says to use synthetic `75W-90` gear oil.
+NOTE: This is a cheat sheet, not the full service manual procedure. The owners manual lists `Motor oil` as `SAE 75w-90
+gear oil`; Stark's `07.019.06 Change gear oil` technical manual says to use synthetic `75W-90` gear oil.
 
 ## Procedure notes
 
